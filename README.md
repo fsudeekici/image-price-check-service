@@ -1,4 +1,4 @@
-# NeoLabel Backend API
+# Label Backend API
 
 This project is a backend API built with **Flask** and **PostgreSQL**. It is used to manage user login, photo evaluation, and price tag check results.
 
